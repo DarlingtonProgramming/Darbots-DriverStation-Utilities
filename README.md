@@ -24,7 +24,7 @@ Now since we have activated Developer Options on our phone, we can enable USB De
 ### 1.2 Install Android Toolchains on Your Computer
 If you have your Android Studio Installed, skip this step, you are good.   
 Download [Android Platform Tools](https://developer.android.com/studio/releases/platform-tools), Unzip them to a folder.
-#### 1.1.1 Put Make ADB command accessible everywhere
+#### 1.1.1 Make ADB command accessible everywhere
 
 **Windows**   
 You need to add your platform-tools folder Path into Your PATH Variable.   
